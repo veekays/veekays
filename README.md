@@ -13,15 +13,7 @@
 
 ## Skills
 
-<p>
-    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%232370ED.svg?logo=typescript&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-%23000000.svg?logo=React"></a>
-    <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest%20-%23E34F37.svg?logo=jest5&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,react,bootstrap,express,docker,kubernetes,mongodb,redis,redux,git,nodejs,postman,linux,webpack)](https://skillicons.dev)
 
 ## Connect with Me
 
