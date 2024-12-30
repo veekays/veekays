@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Vikas!;I'm+a+MERN+and;MEAN+stack+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=7AF79A&size=30&width=500&lines=Hey!+It's+Vikas!;I'm+a+full+stack+Developer;)](https://git.io/typing-svg)
 
 
 ## Github Stats
